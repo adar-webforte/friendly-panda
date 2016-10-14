@@ -1,2 +1,2 @@
 # friendly-panda
-small css animation of a waving panda
+Small css3 animation of a waving panda
