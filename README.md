@@ -1,1 +1,2 @@
-Image that was drawn and animated with CSS ONLY
+# Panda
+Drawn and animated with only CSS
